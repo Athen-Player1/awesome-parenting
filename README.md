@@ -74,7 +74,7 @@ The following other lists have been added to this one so credit to their authors
 
 ## Education
 ### Electronics
--[Electronics For Kids](https://archive.org/download/electronics-for-kids.-play-with-simple-circuits-and-experiment-with-electricity-pdfdrive/Electronics%20for%20Kids.%20%20Play%20with%20Simple%20Circuits%20and%20Experiment%20with%20Electricity%21%20%28%20PDFDrive%20%29.pdf) - PDF with some cool easy projects to get started
+- [Electronics For Kids](https://archive.org/download/electronics-for-kids.-play-with-simple-circuits-and-experiment-with-electricity-pdfdrive/Electronics%20for%20Kids.%20%20Play%20with%20Simple%20Circuits%20and%20Experiment%20with%20Electricity%21%20%28%20PDFDrive%20%29.pdf) - PDF with some cool easy projects to get started
 
 ### Engineering
 ### Coding / Computer Science
