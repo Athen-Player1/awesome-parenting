@@ -35,9 +35,9 @@ The following other lists have been added to this one so credit to their authors
 - [Swiggle](https://swiggle.org.uk/) - Child Friendly Search Engine
 
 ## Infomation and Guidance / Tools
--[KidsHealth](https://kidshealth.org/en/parents/net-safety.html#:~:text=Never%20post%20or%20trade%20personal,parent%20approval%20and%2For%20supervision,) - Great read with some great guidelines for staying safe and involved
--[NSPCC](https://www.nspcc.org.uk/keeping-children-safe/online-safety/talking-child-online-safety/) - How to talk about online safety, also includes a list of safety resources in English and Welsh
--[LEGO Build and Talk](https://www.lego.com/en-gb/sustainability/children/buildandtalk?locale=en-gb&age-gate=grown_up&consent-modal=show) - Using LEGO to open disucssion on online safety
+- [KidsHealth](https://kidshealth.org/en/parents/net-safety.html#:~:text=Never%20post%20or%20trade%20personal,parent%20approval%20and%2For%20supervision,) - Great read with some great guidelines for staying safe and involved
+- [NSPCC](https://www.nspcc.org.uk/keeping-children-safe/online-safety/talking-child-online-safety/) - How to talk about online safety, also includes a list of safety resources in English and Welsh
+- [LEGO Build and Talk](https://www.lego.com/en-gb/sustainability/children/buildandtalk?locale=en-gb&age-gate=grown_up&consent-modal=show) - Using LEGO to open disucssion on online safety
 
 
 
