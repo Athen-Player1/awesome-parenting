@@ -67,10 +67,10 @@ The following other lists have been added to this one so credit to their authors
 - [Childhood in the digital age](https://www.open.edu/openlearn/education-development/childhood-the-digital-age/content-section-overview?active-tab=description-tab) - Free course from the Open University discussing how technology can be both positive and negative on a childs development.
 
 ## Videos
-- [Prenatal class](https://www.youtube.com/watch?v=j7YucfJuziU) - Youtube video of prenatal class with Holliday Tyson RM, MSc.
-- [Baby Sign Language](https://www.youtube.com/watch?v=UVKnVPRklCc) - Youtube video about teaching baby sign langugages.
-- [Live on Purpose TV](https://www.youtube.com/@LiveOnPurposeTV/playlists) - Youtube playlists on a variety of parenting topics focusing on Positive Parenting.
-- [Inspiring the next Generation of Female Engineers](https://youtu.be/FEeTLopLkEo) - Youtube video of a talk by Debbie Sterling on her journey.
+- [Prenatal class](https://www.youtube.com/watch?v=j7YucfJuziU) - YouTube video of prenatal class with Holliday Tyson RM, MSc.
+- [Baby Sign Language](https://www.youtube.com/watch?v=UVKnVPRklCc) - YouTube video about teaching baby sign langugages.
+- [Live on Purpose TV](https://www.youtube.com/@LiveOnPurposeTV/playlists) - YouTube playlists on a variety of parenting topics focusing on Positive Parenting.
+- [Inspiring the next Generation of Female Engineers](https://youtu.be/FEeTLopLkEo) - YouTube video of a talk by Debbie Sterling on her journey.
 
 ## General Resources
 ### Platforms
