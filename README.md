@@ -86,6 +86,12 @@ The following other lists have been added to this one so credit to their authors
 ### Uncategorized
 
 ## Courses for Parents
+-[First Aid for Mental Health](https://alison.com/course/first-aid-for-mental-health) - Free Course on Mental Helath First Aid. This is a must for everyone.
+-[Paediatric First Aid](https://alison.com/course/paediatric-first-aid?gclid=Cj0KCQjwoeemBhCfARIsADR2QCtbwhhwgSVfHfp8LaJ91m1Rln3Jkn0yqGRVGVjJPAC-Ad8rI0T4T8QaAruUEALw_wcB) - Free Course on giving first aid to infants and kids
+-[Advanced Parenting Skills](https://alison.com/course/advanced-parenting-skills) - Free Course on developing mentoring mindsets
+-[Everyday Parenting : The ABCs of Child Rearing](https://www.coursera.org/learn/everyday-parenting) - Free Course from YALE university on child Rearing
+-[The Science of Parenting](https://www.edx.org/learn/parenting/the-university-of-california-san-diego-the-science-of-parenting) - Free course from University of California, San Diego, a science based course on all things parenting
+-[Childhood in the digital age](https://www.open.edu/openlearn/education-development/childhood-the-digital-age/content-section-overview?active-tab=description-tab) - Free course from the Open University discussing how technology can be both positive and negative on a childs development
 
 
 ## Videos
