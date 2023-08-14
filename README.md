@@ -14,7 +14,7 @@ The following other lists have been added to this one so credit to their authors
 
 # Table of contents
 
-- [Docker](#docker)
+- [Self Hosted](#selfhosted)
 - [Parental Controls](#parentalControls)
 - [Resources](#resources)
 - [Platforms](#plaforms)
@@ -24,7 +24,7 @@ The following other lists have been added to this one so credit to their authors
 - [Courses](#courses)
 - [Videos](#videos)
 
-# Docker
+# Self Hosted
 - [Baby Buddy](https://github.com/linuxserver/docker-babybuddy) - Track weight, feeds and just about anything Baby related
 - [BitWarden](https://bitwarden.com/help/install-on-premise-linux/) - Self hosted password manager the whole family can use
 
