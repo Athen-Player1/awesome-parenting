@@ -17,7 +17,7 @@ The following other lists have been added to this one so credit to their authors
 - [Self Hosted](#selfhosted)
 - [Parental Controls](#parentalControls)
 - [Resources](#resources)
-- [Platforms](#plaforms)
+- [Platforms](#platforms)
 - [Books](#books)
 - [Techniques](#techniques)
 - [Education](#education)
