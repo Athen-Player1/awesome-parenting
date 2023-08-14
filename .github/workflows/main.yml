@@ -1,0 +1,7 @@
+- name: Awesome readme lint
+  # You may pin to the exact commit or the version.
+  # uses: Scrum/awesome-lint-action@f93647bd5fb9fceb074bdd5ca21a87fce04c62e3
+  uses: Scrum/awesome-lint-action@v0.1.1
+  with:
+    # Entry file for parsing
+    entry: # optional, default is ./README.md
