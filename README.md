@@ -30,7 +30,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Electronics For Kids](https://archive.org/download/electronics-for-kids.-play-with-simple-circuits-and-experiment-with-electricity-pdfdrive/Electronics%20for%20Kids.%20%20Play%20with%20Simple%20Circuits%20and%20Experiment%20with%20Electricity%21%20%28%20PDFDrive%20%29.pdf) - PDF with some cool easy projects to get started.
   
 ### Engineering
-[Engineer4Free](https://www.engineer4free.com/) - 500 Free Engineering Lessons.
+- [Engineer4Free](https://www.engineer4free.com/) - 500 Free Engineering Lessons.
 
 ### Coding / Computer Science
 - [Typing Club](https://www.typingclub.com/) -  Free typing lessons for kids.
