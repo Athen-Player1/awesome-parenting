@@ -97,3 +97,4 @@ The following other lists have been added to this one so credit to their authors
 ## Videos
 - [Prenatal class](https://www.youtube.com/watch?v=j7YucfJuziU) - Youtube video of prenatal class with Holliday Tyson RM, MSc
 - [Baby Sign Language](https://www.youtube.com/watch?v=UVKnVPRklCc) - Youtube video about teaching baby sign langugages
+- [Live on Purpose TV](https://www.youtube.com/@LiveOnPurposeTV/playlists) - Youtube playlists on a variety of parenting topics focusing on Positive Parenting
