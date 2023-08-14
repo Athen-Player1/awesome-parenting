@@ -42,7 +42,30 @@ The following other lists have been added to this one so credit to their authors
 - [KidsHealth](https://kidshealth.org/en/parents/net-safety.html#:~:text=Never%20post%20or%20trade%20personal,parent%20approval%20and%2For%20supervision,) - Great read with some great guidelines for staying safe and involved
 - [NSPCC](https://www.nspcc.org.uk/keeping-children-safe/online-safety/talking-child-online-safety/) - How to talk about online safety, also includes a list of safety resources in English and Welsh
 - [LEGO Build and Talk](https://www.lego.com/en-gb/sustainability/children/buildandtalk?locale=en-gb&age-gate=grown_up&consent-modal=show) - Using LEGO to open disucssion on online safety
+# Education
+## Electronics
+- [Electronics For Kids](https://archive.org/download/electronics-for-kids.-play-with-simple-circuits-and-experiment-with-electricity-pdfdrive/Electronics%20for%20Kids.%20%20Play%20with%20Simple%20Circuits%20and%20Experiment%20with%20Electricity%21%20%28%20PDFDrive%20%29.pdf) - PDF with some cool easy projects to get started
+  
+## Engineering
 
+## Coding / Computer Science
+- [Typing Club](https://www.typingclub.com/) -  Free typing lessons for kids
+- [Scratch JR](https://www.scratchjr.org/) -  Coding lessons for ages 5-7
+- [Scratch](https://www.scratch.org/) - Coding Lessons for older kids
+- [Code Combat](https://codecombat.com/play) - Web dev for teachers and students focusing on HTML and JS
+
+# Courses for Parents
+- [First Aid for Mental Health](https://alison.com/course/first-aid-for-mental-health) - Free Course on Mental Helath First Aid. This is a must for everyone.
+- [Paediatric First Aid](https://alison.com/course/paediatric-first-aid?gclid=Cj0KCQjwoeemBhCfARIsADR2QCtbwhhwgSVfHfp8LaJ91m1Rln3Jkn0yqGRVGVjJPAC-Ad8rI0T4T8QaAruUEALw_wcB) - Free Course on giving first aid to infants and kids
+- [Advanced Parenting Skills](https://alison.com/course/advanced-parenting-skills) - Free Course on developing mentoring mindsets
+- [Everyday Parenting : The ABCs of Child Rearing](https://www.coursera.org/learn/everyday-parenting) - Free Course from YALE university on child Rearing
+- [The Science of Parenting](https://www.edx.org/learn/parenting/the-university-of-california-san-diego-the-science-of-parenting) - Free course from University of California, San Diego, a science based course on all things parenting
+- [Childhood in the digital age](https://www.open.edu/openlearn/education-development/childhood-the-digital-age/content-section-overview?active-tab=description-tab) - Free course from the Open University discussing how technology can be both positive and negative on a childs development
+
+# Videos
+- [Prenatal class](https://www.youtube.com/watch?v=j7YucfJuziU) - Youtube video of prenatal class with Holliday Tyson RM, MSc
+- [Baby Sign Language](https://www.youtube.com/watch?v=UVKnVPRklCc) - Youtube video about teaching baby sign langugages
+- [Live on Purpose TV](https://www.youtube.com/@LiveOnPurposeTV/playlists) - Youtube playlists on a variety of parenting topics focusing on Positive Parenting
 
 # General Resources
 ## Platforms
@@ -70,26 +93,3 @@ The following other lists have been added to this one so credit to their authors
 - [Waldorf](https://en.wikipedia.org/wiki/Waldorf_education)
 - [Reggio Emilia](https://en.wikipedia.org/wiki/Reggio_Emilia_approach)
 
-# Education
-## Electronics
-- [Electronics For Kids](https://archive.org/download/electronics-for-kids.-play-with-simple-circuits-and-experiment-with-electricity-pdfdrive/Electronics%20for%20Kids.%20%20Play%20with%20Simple%20Circuits%20and%20Experiment%20with%20Electricity%21%20%28%20PDFDrive%20%29.pdf) - PDF with some cool easy projects to get started
-## Engineering
-## Coding / Computer Science
-- [Typing Club](https://www.typingclub.com/) -  Free typing lessons for kids
-- [Scratch JR](https://www.scratchjr.org/) -  Coding lessons for ages 5-7
-- [Scratch](https://www.scratch.org/) - Coding Lessons for older kids
-- [Code Combat](https://codecombat.com/play) - Web dev for teachers and students focusing on HTML and JS
-
-# Courses for Parents
-- [First Aid for Mental Health](https://alison.com/course/first-aid-for-mental-health) - Free Course on Mental Helath First Aid. This is a must for everyone.
-- [Paediatric First Aid](https://alison.com/course/paediatric-first-aid?gclid=Cj0KCQjwoeemBhCfARIsADR2QCtbwhhwgSVfHfp8LaJ91m1Rln3Jkn0yqGRVGVjJPAC-Ad8rI0T4T8QaAruUEALw_wcB) - Free Course on giving first aid to infants and kids
-- [Advanced Parenting Skills](https://alison.com/course/advanced-parenting-skills) - Free Course on developing mentoring mindsets
-- [Everyday Parenting : The ABCs of Child Rearing](https://www.coursera.org/learn/everyday-parenting) - Free Course from YALE university on child Rearing
-- [The Science of Parenting](https://www.edx.org/learn/parenting/the-university-of-california-san-diego-the-science-of-parenting) - Free course from University of California, San Diego, a science based course on all things parenting
-- [Childhood in the digital age](https://www.open.edu/openlearn/education-development/childhood-the-digital-age/content-section-overview?active-tab=description-tab) - Free course from the Open University discussing how technology can be both positive and negative on a childs development
-
-
-# Videos
-- [Prenatal class](https://www.youtube.com/watch?v=j7YucfJuziU) - Youtube video of prenatal class with Holliday Tyson RM, MSc
-- [Baby Sign Language](https://www.youtube.com/watch?v=UVKnVPRklCc) - Youtube video about teaching baby sign langugages
-- [Live on Purpose TV](https://www.youtube.com/@LiveOnPurposeTV/playlists) - Youtube playlists on a variety of parenting topics focusing on Positive Parenting
