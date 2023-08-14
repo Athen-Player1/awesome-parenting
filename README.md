@@ -1,7 +1,16 @@
 # Awesome-Parenting [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 A curated list of courses, books, videos and cool tech for expecting, new and current parents. Feel free to create a PR to add too it!
 
-## References
+## Contents
+
+- [Self Hosted](#self-hosted)
+- [Online Safety](#online-safety)
+- [Education](#education)
+- [Courses for Parents](#courses-for-parents)
+- [Videos](#videos)
+- [General Resources](#general-resources)
+
+### References
 Inspiration for this list comes from https://github.com/sindresorhus/awesome/tree/main 
 
 The following other lists have been added to this one so credit to their authors:
@@ -11,20 +20,6 @@ The following other lists have been added to this one so credit to their authors
 [minchang](https://github.com/minchang/awesome-parenting)
 
 [davidpelayo](https://github.com/davidpelayo/awesome-parenting)
-
-
-## Contents
-
-- [Self Hosted](#self-hosted)
-- [Online Safety](#online-safety)
-- [General Resources](#general-resources)
-- [Resources](#resources)
-- [Platforms](#platforms)
-- [Books](#books)
-- [Techniques](#techniques)
-- [Education](#education)
-- [Courses for Parents](#courses-for-parents)
-- [Videos](#videos)
 
 ## Self Hosted
 - [Baby Buddy](https://github.com/linuxserver/docker-babybuddy) - Track weight, feeds and just about anything Baby related.
