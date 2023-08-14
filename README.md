@@ -1,5 +1,5 @@
 # Awesome-Parenting
-Collating infomation on topics and cool tech for expecting, new and current parents.
+Collating infomation on topics and cool tech for expecting, new and current parents. Feel free to create a PR to add too it!
 
 # References
 Inspiration for this list comes from https://github.com/sindresorhus/awesome/tree/main 
