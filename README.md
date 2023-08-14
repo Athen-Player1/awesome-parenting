@@ -22,7 +22,7 @@ The following other lists have been added to this one so credit to their authors
 - [Books](#books)
 - [Techniques](#techniques)
 - [Education](#education)
-- [Courses](#courses)
+- [Courses](#courses-for-parents)
 - [Videos](#videos)
 
 # Self Hosted
