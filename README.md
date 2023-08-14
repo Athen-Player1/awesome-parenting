@@ -81,7 +81,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Positive Discipline](https://amzn.to/2P9qgqU)
 
 ### E-Books
--[Unicef - The Art of Parenting](https://www.issa.nl/sites/default/files/pdf/Publications/cross%20sectoral/Resource%20Modules%20for%20Home%20Visitors%20Module%206.web_.pdf) - A PDF guide filled with great tips (check out the quiz)
+- [Unicef - The Art of Parenting](https://www.issa.nl/sites/default/files/pdf/Publications/cross%20sectoral/Resource%20Modules%20for%20Home%20Visitors%20Module%206.web_.pdf) - A PDF guide filled with great tips (check out the quiz)
 
   
 
