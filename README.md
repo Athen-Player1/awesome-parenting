@@ -14,8 +14,9 @@ The following other lists have been added to this one so credit to their authors
 
 # Table of contents
 
-- [Self Hosted](#selfhosted)
-- [Parental Controls](#parentalControls)
+- [Self Hosted](#self-hosted)
+- [Online Safety](#online-safety)
+- [General Resources](#general-resources)
 - [Resources](#resources)
 - [Platforms](#platforms)
 - [Books](#books)
@@ -36,13 +37,13 @@ The following other lists have been added to this one so credit to their authors
 - [Swiggle](https://swiggle.org.uk/) - Child Friendly Search Engine
 - [SafeWise](https://www.safewise.com/resources/internet-safety-for-teens/) - Resources for keeping Teens safe, topics include Sexting, Pornography, Cyberbullying
 
-## Infomation and Guidance / Tools
+## Safety Infomation
 - [KidsHealth](https://kidshealth.org/en/parents/net-safety.html#:~:text=Never%20post%20or%20trade%20personal,parent%20approval%20and%2For%20supervision,) - Great read with some great guidelines for staying safe and involved
 - [NSPCC](https://www.nspcc.org.uk/keeping-children-safe/online-safety/talking-child-online-safety/) - How to talk about online safety, also includes a list of safety resources in English and Welsh
 - [LEGO Build and Talk](https://www.lego.com/en-gb/sustainability/children/buildandtalk?locale=en-gb&age-gate=grown_up&consent-modal=show) - Using LEGO to open disucssion on online safety
 
 
-# General Resources / Tools
+# General Resources
 - [Ask HN: Any good collaboratively built documentation on good parenting?](https://news.ycombinator.com/item?id=17023693)
 - [Janet Lansbury - Elevating Child Care](http://www.janetlansbury.com/)
 - [Hand in Hand Parenting](https://www.handinhandparenting.org/)
