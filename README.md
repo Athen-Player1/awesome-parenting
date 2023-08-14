@@ -1,5 +1,5 @@
 # Awesome Parenting [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-A curated list of courses, books, videos and cool tech for expecting, new and current parents. Feel free to create a PR to add too it!
+A curated list of courses, books, videos, and cool tech for expecting, new and current parents. Feel free to create a PR to add to it!
 
 ## Contents
 
@@ -22,21 +22,21 @@ The following other lists have been added to this one so credit to their authors
 [davidpelayo](https://github.com/davidpelayo/awesome-parenting)
 
 ## Self Hosted
-- [Baby Buddy](https://github.com/linuxserver/docker-babybuddy) - Track weight, feeds and just about anything Baby related.
-- [BitWarden](https://bitwarden.com/help/install-on-premise-linux/) - Self hosted password manager the whole family can use.
+- [Baby Buddy](https://github.com/linuxserver/docker-babybuddy) - Track weight, feeds, and just about anything Baby related.
+- [BitWarden](https://bitwarden.com/help/install-on-premise-linux/) - Self-hosted password manager the whole family can use.
 
 ## Online Safety
 ### Web Monitoring and Parental Controls
-- [KeexyBox](https://keexybox.org/) - Web based DNS and parental controls with a focus on child safety.
+- [KeexyBox](https://keexybox.org/) - Web-based DNS and parental controls with a focus on child safety.
 - [AdGuard](https://github.com/AdguardTeam/AdGuardHome) - General Ad Blocker with some nice blocking options.
 - [Safe Surfer](https://gitlab.com/safesurfer/SafeSurfer-Android) - Mobile optimised web safety app.
 - [Swiggle](https://swiggle.org.uk/) - Child Friendly Search Engine.
-- [SafeWise](https://www.safewise.com/resources/internet-safety-for-teens/) - Resources for keeping teens safe, topics include Sexting, Pornography, Cyberbullying.
+- [SafeWise](https://www.safewise.com/resources/internet-safety-for-teens/) - Resources for keeping teens safe, topics include Sexting, Pornography, and Cyberbullying.
 
 ### Safety Infomation
 - [KidsHealth](https://kidshealth.org/en/parents/net-safety.html#:~:text=Never%20post%20or%20trade%20personal,parent%20approval%20and%2For%20supervision,) - Great read with some great guidelines for staying safe and involved.
 - [NSPCC](https://www.nspcc.org.uk/keeping-children-safe/online-safety/talking-child-online-safety/) - How to talk about online safety, also includes a list of safety resources in English and Welsh.
-- [LEGO Build and Talk](https://www.lego.com/en-gb/sustainability/children/buildandtalk?locale=en-gb&age-gate=grown_up&consent-modal=show) - Using LEGO to open disucssion on online safety.
+- [LEGO Build and Talk](https://www.lego.com/en-gb/sustainability/children/buildandtalk?locale=en-gb&age-gate=grown_up&consent-modal=show) - Using LEGO to open discussion on online safety.
 ## Education
 ### Electronics
 - [Electronics For Kids](https://archive.org/download/electronics-for-kids.-play-with-simple-circuits-and-experiment-with-electricity-pdfdrive/Electronics%20for%20Kids.%20%20Play%20with%20Simple%20Circuits%20and%20Experiment%20with%20Electricity%21%20%28%20PDFDrive%20%29.pdf) - PDF with some cool easy projects to get started.
@@ -51,21 +51,21 @@ The following other lists have been added to this one so credit to their authors
 - [Code Combat](https://codecombat.com/play) - Web dev for teachers and students focusing on HTML and JS.
 
 ### Educational Games
--[Awsome Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Awesome list of educational games.
+- [Awsome Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Awesome list of educational games.
 
 ## Courses for Parents
 - [First Aid for Mental Health](https://alison.com/course/first-aid-for-mental-health) - Free Course on Mental Health First Aid. This is a must for everyone.
 - [Paediatric First Aid](https://alison.com/course/paediatric-first-aid?gclid=Cj0KCQjwoeemBhCfARIsADR2QCtbwhhwgSVfHfp8LaJ91m1Rln3Jkn0yqGRVGVjJPAC-Ad8rI0T4T8QaAruUEALw_wcB) - Free Course on giving first aid to infants and kids.
 - [Advanced Parenting Skills](https://alison.com/course/advanced-parenting-skills) - Free Course on developing mentoring mindsets.
 - [Everyday Parenting : The ABCs of Child Rearing](https://www.coursera.org/learn/everyday-parenting) - Free Course from YALE university on child Rearing.
-- [The Science of Parenting](https://www.edx.org/learn/parenting/the-university-of-california-san-diego-the-science-of-parenting) - Free course from University of California, San Diego, a science based course on all things parenting.
-- [Childhood in the digital age](https://www.open.edu/openlearn/education-development/childhood-the-digital-age/content-section-overview?active-tab=description-tab) - Free course from the Open University discussing how technology can be both positive and negative on a childs development.
+- [The Science of Parenting](https://www.edx.org/learn/parenting/the-university-of-california-san-diego-the-science-of-parenting) - Free course from University of California, San Diego, a science-based course on all things parenting.
+- [Childhood in the digital age](https://www.open.edu/openlearn/education-development/childhood-the-digital-age/content-section-overview?active-tab=description-tab) - Free course from the Open University discussing how technology can be both positive and negative on a child's development.
 
 ## Videos
 - [Prenatal class](https://www.youtube.com/watch?v=j7YucfJuziU) - YouTube video of prenatal class with Holliday Tyson RM, MSc.
-- [Baby Sign Language](https://www.youtube.com/watch?v=UVKnVPRklCc) - YouTube video about teaching baby sign langugages.
+- [Baby Sign Language](https://www.youtube.com/watch?v=UVKnVPRklCc) - YouTube video about teaching baby sign languages.
 - [Live on Purpose TV](https://www.youtube.com/@LiveOnPurposeTV/playlists) - YouTube playlists on a variety of parenting topics focusing on Positive Parenting.
-- [Inspiring the next Generation of Female Engineers](https://youtu.be/FEeTLopLkEo) - YouTube video of a talk by Debbie Sterling on her journey.
+- [Inspiring the Next Generation of Female Engineers](https://youtu.be/FEeTLopLkEo) - YouTube video of a talk by Debbie Sterling on her journey.
 
 ## General Resources
 ### Platforms
