@@ -4,6 +4,7 @@ Collating infomation on topics and cool tech for expecting, new and current pare
 # References
 Inspiration for this list comes from https://github.com/sindresorhus/awesome/tree/main 
 The following other lists have been added to this one so credit to their authors:
+
 -https://github.com/coachnate/awesome-parenting
 -https://github.com/minchang/awesome-parenting
 -https://github.com/davidpelayo/awesome-parenting/tree/master
