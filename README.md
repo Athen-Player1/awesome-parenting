@@ -10,17 +10,6 @@ A curated list of courses, books, videos, and cool tech for expecting, new and c
 - [Videos](#videos)
 - [General Resources](#general-resources)
 
-### References
-Inspiration for this list comes from https://github.com/sindresorhus/awesome/tree/main 
-
-The following other lists have been added to this one so credit to their authors:
-
-[coachnate](https://github.com/coachnate/awesome-parenting)
-
-[minchang](https://github.com/minchang/awesome-parenting)
-
-[davidpelayo](https://github.com/davidpelayo/awesome-parenting)
-
 ## Self Hosted
 - [Baby Buddy](https://github.com/linuxserver/docker-babybuddy) - Track weight, feeds, and just about anything Baby related.
 - [BitWarden](https://bitwarden.com/help/install-on-premise-linux/) - Self-hosted password manager the whole family can use.
@@ -92,3 +81,11 @@ The following other lists have been added to this one so credit to their authors
 - [Waldorf](https://en.wikipedia.org/wiki/Waldorf_education)
 - [Reggio Emilia](https://en.wikipedia.org/wiki/Reggio_Emilia_approach)
 
+### Footnotes 
+Credit other lists on this topic:
+
+[coachnate](https://github.com/coachnate/awesome-parenting)
+
+[minchang](https://github.com/minchang/awesome-parenting)
+
+[davidpelayo](https://github.com/davidpelayo/awesome-parenting)
