@@ -56,10 +56,10 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Inspiring the Next Generation of Female Engineers](https://youtu.be/FEeTLopLkEo) - YouTube video of a talk by Debbie Sterling on her journey.
 
 ## Health
-- [YoungMinds ADHD guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/adhd/) A free health guide for parents with a child with ADHD
+- [YoungMinds ADHD guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/adhd/) - A free health guide for parents with a child with ADHD.
 - [First Aid for Mental Health](https://alison.com/course/first-aid-for-mental-health) - Free Course on Mental Health First Aid. This is a must for everyone.
 - [Paediatric First Aid](https://alison.com/course/paediatric-first-aid?gclid=Cj0KCQjwoeemBhCfARIsADR2QCtbwhhwgSVfHfp8LaJ91m1Rln3Jkn0yqGRVGVjJPAC-Ad8rI0T4T8QaAruUEALw_wcB) - Free Course on giving first aid to infants and kids.
-- [YoungMinds Anxiety Guide ](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/anxiety/) - Free guide for parents on childhood anxiety
+- [YoungMinds Anxiety Guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/anxiety/) - Free guide for parents on childhood anxiety.
 
 ## General Resources
 ### Platforms
@@ -81,7 +81,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Positive Discipline](https://amzn.to/2P9qgqU)
 
 ### E-Books
--[Unicef - The Art of Parenting](https://www.issa.nl/sites/default/files/pdf/Publications/cross%20sectoral/Resource%20Modules%20for%20Home%20Visitors%20Module%206.web_.pdf) - A PDF guide filled with great tips (check out the quiz)
+- [Unicef - The Art of Parenting](https://www.issa.nl/sites/default/files/pdf/Publications/cross%20sectoral/Resource%20Modules%20for%20Home%20Visitors%20Module%206.web_.pdf) - A PDF guide filled with great tips (check out the quiz).
 
   
 
