@@ -26,6 +26,7 @@ The following other lists have been added to this one so credit to their authors
 
 # Docker
 - [Baby Buddy](https://github.com/linuxserver/docker-babybuddy) - Track weight, feeds and just about anything Baby related
+- [BitWarden](https://bitwarden.com/help/install-on-premise-linux/) - Self hosted password manager the whole family can use
 
 # Online Safety
 ## Web Monitoring and Parental Controls
@@ -33,6 +34,7 @@ The following other lists have been added to this one so credit to their authors
 - [AdGuard](https://github.com/AdguardTeam/AdGuardHome) - General Ad Blocker with some nice blocking options
 - [Safe Surfer](https://gitlab.com/safesurfer/SafeSurfer-Android) - Mobile optimised web safety app
 - [Swiggle](https://swiggle.org.uk/) - Child Friendly Search Engine
+- [SafeWise](https://www.safewise.com/resources/internet-safety-for-teens/) - Resources for keeping Teens safe, topics include Sexting, Pornography, Cyberbullying
 
 ## Infomation and Guidance / Tools
 - [KidsHealth](https://kidshealth.org/en/parents/net-safety.html#:~:text=Never%20post%20or%20trade%20personal,parent%20approval%20and%2For%20supervision,) - Great read with some great guidelines for staying safe and involved
@@ -40,8 +42,7 @@ The following other lists have been added to this one so credit to their authors
 - [LEGO Build and Talk](https://www.lego.com/en-gb/sustainability/children/buildandtalk?locale=en-gb&age-gate=grown_up&consent-modal=show) - Using LEGO to open disucssion on online safety
 
 
-
-# General Resources
+# General Resources / Tools
 - [Ask HN: Any good collaboratively built documentation on good parenting?](https://news.ycombinator.com/item?id=17023693)
 - [Janet Lansbury - Elevating Child Care](http://www.janetlansbury.com/)
 - [Hand in Hand Parenting](https://www.handinhandparenting.org/)
@@ -63,7 +64,7 @@ The following other lists have been added to this one so credit to their authors
 - [Smart But Scattered](https://www.goodreads.com/book/show/6053700-smart-but-scattered)
 - [Parent Effectiveness Training](https://www.goodreads.com/book/show/165548.Parent_Effectiveness_Training)
 - [Positive Discipline](https://amzn.to/2P9qgqU)
-- 
+  
 
 ## Techniques
 ### Preschool
@@ -72,7 +73,11 @@ The following other lists have been added to this one so credit to their authors
 - [Reggio Emilia](https://en.wikipedia.org/wiki/Reggio_Emilia_approach)
 
 ## Education
-### Skills
+### Electronics
+-[Electronics For Kids](https://archive.org/download/electronics-for-kids.-play-with-simple-circuits-and-experiment-with-electricity-pdfdrive/Electronics%20for%20Kids.%20%20Play%20with%20Simple%20Circuits%20and%20Experiment%20with%20Electricity%21%20%28%20PDFDrive%20%29.pdf) - PDF with some cool easy projects to get started
+
+### Engineering
+### Coding / Computer Science
 - [Typing Club](https://www.typingclub.com/) -  Free typing lessons for kids
 - [Scratch JR](https://www.scratchjr.org/) -  Coding lessons for ages 5-7
 - [Scratch](https://www.scratch.org/) - Coding Lessons for older kids
@@ -80,8 +85,8 @@ The following other lists have been added to this one so credit to their authors
 
 ### Uncategorized
 
-## Courses
-- [Scientific Secrets for Raising Kids Who Thrive](https://www.thegreatcourses.com/courses/scientific-secrets-for-raising-kids-who-thrive.html)
+## Courses for Parents
+
 
 ## Videos
 - [Prenatal class](https://www.youtube.com/watch?v=j7YucfJuziU) - Youtube video of prenatal class with Holliday Tyson RM, MSc
