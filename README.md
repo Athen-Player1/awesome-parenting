@@ -1,6 +1,5 @@
 # Awesome Parenting [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-A curated list of courses, books, videos, and cool tech for expecting, new and current parents. Feel free to create a PR to add to it!
-
+Welcome to the Parenting Resources Awesome List! Discover a curated collection of essential resources for every stage of parenting. Find valuable articles, books, tools, and more to support your parenting journey. Join our community and share in the wisdom of parenthood.
 ## Contents
 
 - [Self Hosted](#self-hosted)
