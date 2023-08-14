@@ -45,10 +45,6 @@ The following other lists have been added to this one so credit to their authors
 
 
 # General Resources
-- [Ask HN: Any good collaboratively built documentation on good parenting?](https://news.ycombinator.com/item?id=17023693)
-- [Janet Lansbury - Elevating Child Care](http://www.janetlansbury.com/)
-- [Hand in Hand Parenting](https://www.handinhandparenting.org/)
-
 ## Platforms
 - [parenting.stackexchange.com](https://parenting.stackexchange.com/)
 - [Winnie](https://winnie.com/)
