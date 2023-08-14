@@ -1,5 +1,5 @@
 # Awesome-Parenting [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-Collating infomation on topics and cool tech for expecting, new and current parents. Feel free to create a PR to add too it!
+A curated list of courses, books, videos and cool tech for expecting, new and current parents. Feel free to create a PR to add too it!
 
 # References
 Inspiration for this list comes from https://github.com/sindresorhus/awesome/tree/main 
