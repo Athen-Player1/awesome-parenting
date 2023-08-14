@@ -6,8 +6,11 @@ Inspiration for this list comes from https://github.com/sindresorhus/awesome/tre
 The following other lists have been added to this one so credit to their authors:
 
 -https://github.com/coachnate/awesome-parenting
+
 -https://github.com/minchang/awesome-parenting
+
 -https://github.com/davidpelayo/awesome-parenting/tree/master
+
 
 # Table of contents
 
