@@ -62,28 +62,28 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [YoungMinds Anxiety Guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/anxiety/) - Free guide for parents on childhood anxiety.
 
 ## General Resources
+
+### Useful Sites
+- [Parenting Science](https://parentingscience.com/) - A bunch of science backed articles on raising kids.
+- [Peaceful Parenting](https://www.ahaparenting.com/) - A collection of articles for every age, some paid content. I haven't investigated the paid content.
+- [Reddit - Parenting](https://www.reddit.com/r/Parenting/) - The Parenting Subreddit, the wiki and recommended reading are useful here.
+
 ### Platforms
 - [parenting.stackexchange.com](https://parenting.stackexchange.com/)
 - [Winnie](https://winnie.com/)
 
 ### Books
-- [Between Parent and Child - H. G. Ginott](https://www.goodreads.com/book/show/256004.Between_Parent_and_Child)
-- [The Pocket Parent - Gail Reichlin & Caroline Winkler](https://www.goodreads.com/book/show/581287.The_Pocket_Parent)
-- [The Gardener and the Carpenter](https://www.goodreads.com/book/show/28595855-the-gardener-and-the-carpenter)
-- [Selfish Reasons to Have More Kids](https://www.goodreads.com/book/show/10266902-selfish-reasons-to-have-more-kids)
-- [The Well-Behaved Child: Discipline That Really Works!](https://www.goodreads.com/book/show/6908356-the-well-behaved-child)
-- [Raising An Emotionally Intelligent Child](https://www.goodreads.com/book/show/213186.Raising_An_Emotionally_Intelligent_Child)
-- [And Baby Makes Three](https://www.goodreads.com/book/show/16083932-and-baby-makes-three)
-- [The Rational Male - Positive Masculinity](https://www.goodreads.com/book/show/35832854-the-rational-male---positive-masculinity)
-- [How to Talk so Kids Will Listen. And Listen So Kids Will Talk](https://www.goodreads.com/book/show/769016.How_to_Talk_So_Kids_Will_Listen_Listen_So_Kids_Will_Talk)
-- [Smart But Scattered](https://www.goodreads.com/book/show/6053700-smart-but-scattered)
-- [Parent Effectiveness Training](https://www.goodreads.com/book/show/165548.Parent_Effectiveness_Training)
-- [Positive Discipline](https://amzn.to/2P9qgqU)
+- [Selfish Reasons to Have More Kids](https://www.goodreads.com/book/show/10266902-selfish-reasons-to-have-more-kids) - A reminder than parenthood CAN be fun.
+- [Cribsheet](https://www.goodreads.com/book/show/40121328-cribsheet) - A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool.
+- [The baby owners manual](https://www.goodreads.com/book/show/716925.The_Baby_Owner_s_Manual) - A well humoured guide for keeping your baby running at peak efficency.
 
 ### E-Books
 - [Unicef - The Art of Parenting](https://www.issa.nl/sites/default/files/pdf/Publications/cross%20sectoral/Resource%20Modules%20for%20Home%20Visitors%20Module%206.web_.pdf) - A PDF guide filled with great tips (check out the quiz).
 
-  
+### Podcasts  
+- [Good Inside](https://www.goodinside.com/about/) - Weekly tips from a clinical psychologist and mum. Available spotify and apple podcasts.
+- [Raising good humans](https://draliza.com/) - Developmental psychologist Aliza Pressman, Ph.D sharing the latest developmental research.
+- [The Longest Shortest Time](https://longestshortesttime.com/) - News and weird parenting topics. This podcast has concluded.
 
 ### Techniques
 - [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
