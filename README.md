@@ -84,6 +84,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Good Inside](https://www.goodinside.com/about/) - Weekly tips from a clinical psychologist and mum. Available spotify and apple podcasts.
 - [Raising good humans](https://draliza.com/) - Developmental psychologist Aliza Pressman, Ph.D sharing the latest developmental research.
 - [The Longest Shortest Time](https://longestshortesttime.com/) - News and weird parenting topics. This podcast has concluded.
+- [The Healthy Kid Zone](https://healthcare.utah.edu/the-scope/kids-zone) - University of Utah podcasts on teen and child health topics.
 
 ### Techniques
 - [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
