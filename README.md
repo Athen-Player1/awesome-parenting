@@ -85,6 +85,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Raising good humans](https://draliza.com/) - Developmental psychologist Aliza Pressman, Ph.D sharing the latest developmental research.
 - [The Longest Shortest Time](https://longestshortesttime.com/) - News and weird parenting topics. This podcast has concluded.
 
+
 ### Techniques
 - [Montessori](https://en.wikipedia.org/wiki/Montessori_education)
 - [Waldorf](https://en.wikipedia.org/wiki/Waldorf_education)
