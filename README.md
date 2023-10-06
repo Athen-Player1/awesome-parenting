@@ -1,5 +1,6 @@
 # Awesome Parenting [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 Welcome to the Parenting Resources Awesome List! Discover a curated collection of essential resources for every stage of parenting. Find valuable articles, books, tools, and more to support your parenting journey. Join our community and share in the wisdom of parenthood.
+
 ## Contents
 
 - [Self Hosted](#self-hosted)
