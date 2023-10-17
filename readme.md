@@ -33,7 +33,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
   
 ### Engineering
 - [Engineer4Free](https://www.engineer4free.com/) - 500 Free Engineering Lessons.
-- [NatGeo Kids](https://kids.nationalgeographic.com/) - National Geographic for kids
+- [NatGeo Kids](https://kids.nationalgeographic.com/) - National Geographic for kids.
 
 ### Coding / Computer Science
 - [Typing Club](https://www.typingclub.com/) -  Free typing lessons for kids.
