@@ -71,6 +71,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Parenting Science](https://parentingscience.com/) - A bunch of science backed articles on raising kids.
 - [Peaceful Parenting](https://www.ahaparenting.com/) - A collection of articles for every age, some paid content. I haven't investigated the paid content.
 - [Reddit - Parenting](https://www.reddit.com/r/Parenting/) - The Parenting Subreddit, the wiki and recommended reading are useful here.
+- [Free Parenting Tools](https://twiggly.app/tools/) - Free, no-signup web tools for chores, rewards, and age-readiness. Printable.
 
 ### Platforms
 - [parenting.stackexchange.com](https://parenting.stackexchange.com/)
