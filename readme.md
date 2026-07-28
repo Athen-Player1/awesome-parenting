@@ -41,6 +41,9 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Scratch](https://www.scratch.org/) - Coding Lessons for older kids.
 - [Code Combat](https://codecombat.com/play) - Web dev for teachers and students focusing on HTML and JS.
 
+### Arts and Creativity
+- [ColorKind](https://colorkind.app/) - Turns children's ideas or family photos into age-adjusted coloring pages that families can print.
+
 ### Educational Games
 - [Awsome Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Awesome list of educational games.
 
