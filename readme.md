@@ -73,6 +73,8 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Paediatric First Aid](https://alison.com/course/paediatric-first-aid?gclid=Cj0KCQjwoeemBhCfARIsADR2QCtbwhhwgSVfHfp8LaJ91m1Rln3Jkn0yqGRVGVjJPAC-Ad8rI0T4T8QaAruUEALw_wcB) - Free Course on giving first aid to infants and kids.
 - [YoungMinds Anxiety Guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/anxiety/) - Free guide for parents on childhood anxiety.
 
+- [Minbao Feeding Tools](https://yy520-xx.github.io/minbao-feeding-tools/) - Free web app for tracking infant feeding, solid food introduction, and food allergy reactions; includes ingredient label allergen scanning for CMPA and other common allergies.
+
 ## General Resources
 
 ### Useful Sites
