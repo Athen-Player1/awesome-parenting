@@ -46,6 +46,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 
 ### Educational Games
 - [Awsome Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Awesome list of educational games.
+- [kdpbook.io Maze Maker](https://kdpbook.io/kdp/maze-maker) - Free, no-signup printable mazes for kids, rectangular or circular, from easy to expert, with the solution on its own page.
 
 ### Resilience & Social-Emotional Learning
 - [AQ Kids — Resilience Quiz](https://ordinarymantrying.com/tools/aq-kids/) - Free quiz that helps parents assess their child's resilience (AQ). Generates a personalized PDF report with a parent's letter. No sign-up needed.
