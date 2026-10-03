@@ -81,6 +81,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Peaceful Parenting](https://www.ahaparenting.com/) - A collection of articles for every age, some paid content. I haven't investigated the paid content.
 - [Reddit - Parenting](https://www.reddit.com/r/Parenting/) - The Parenting Subreddit, the wiki and recommended reading are useful here.
 - [Free Parenting Tools](https://twiggly.app/tools/) - Free, no-signup web tools for chores, rewards, and age-readiness. Printable.
+- [Subskills](https://subskills.xyz/) - Free sports technique videos sorted by sport, sub-skill and level.
 
 ### Platforms
 - [parenting.stackexchange.com](https://parenting.stackexchange.com/)
