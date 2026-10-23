@@ -72,6 +72,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [First Aid for Mental Health](https://alison.com/course/first-aid-for-mental-health) - Free Course on Mental Health First Aid. This is a must for everyone.
 - [Paediatric First Aid](https://alison.com/course/paediatric-first-aid?gclid=Cj0KCQjwoeemBhCfARIsADR2QCtbwhhwgSVfHfp8LaJ91m1Rln3Jkn0yqGRVGVjJPAC-Ad8rI0T4T8QaAruUEALw_wcB) - Free Course on giving first aid to infants and kids.
 - [YoungMinds Anxiety Guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/anxiety/) - Free guide for parents on childhood anxiety.
+- [Growo](https://usegrowo.com/calculators) - Free WHO and CDC growth percentile calculators for babies and children, with corrected age for preterm babies and mid-parental height. No sign-up needed.
 
 ## General Resources
 
