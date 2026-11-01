@@ -34,6 +34,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 ### Engineering
 - [Engineer4Free](https://www.engineer4free.com/) - 500 Free Engineering Lessons.
 - [NatGeo Kids](https://kids.nationalgeographic.com/) - National Geographic for kids.
+- [Mini Golf STEM Activity](https://minigolfspots.com/blog/mini-golf-stem-activity) - Free guide for designing, building and testing a cardboard mini-golf course, with measurements and redesign.
 
 ### Coding / Computer Science
 - [Typing Club](https://www.typingclub.com/) -  Free typing lessons for kids.
