@@ -81,6 +81,8 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Growo](https://usegrowo.com/calculators) - Free WHO and CDC growth percentile calculators for babies and children, with corrected age for preterm babies and mid-parental height. No sign-up needed.
 - [Recall Kitchen](https://recallkitchen.com/) - Free tool to search government recall notices (CPSC, FDA, USDA FSIS, NHTSA, Health Canada) by keyword, UPC, product name, make and model, or photo (beta), and save what you own to see new matches.
 
+- [Minbao Feeding Tools](https://yy520-xx.github.io/minbao-feeding-tools/) - Free web app for tracking infant feeding, solid food introduction, and food allergy reactions; includes ingredient label allergen scanning for CMPA and other common allergies.
+
 ## General Resources
 
 ### Baby Care Apps
