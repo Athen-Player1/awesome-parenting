@@ -71,7 +71,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Baby Sign Language](https://www.youtube.com/watch?v=UVKnVPRklCc) - YouTube video about teaching baby sign languages.
 - [Live on Purpose TV](https://www.youtube.com/@LiveOnPurposeTV/playlists) - YouTube playlists on a variety of parenting topics focusing on Positive Parenting.
 - [Inspiring the Next Generation of Female Engineers](https://youtu.be/FEeTLopLkEo) - YouTube video of a talk by Debbie Sterling on her journey.
-- [How to Dad](https://www.youtube.com/@HowtoDad) - Youtube channel thats well humoured and entertaining
+- [How to Dad](https://www.youtube.com/@HowtoDad) - YouTube channel thats well humoured and entertaining.
 
 ## Health
 - [YoungMinds ADHD guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/adhd/) - A free health guide for parents with a child with ADHD.
@@ -88,7 +88,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [BabyZone](https://apps.apple.com/app/id6752122642) - iPhone feeding, sleep and diaper logs. Free for one baby with ads; optional Premium for family sharing.
 
 ### Useful Sites
-- [Free Midwife chat](https://lansinoh.co.uk/pages/live-midwife-chat) - A free chat with accredited Midwives in the UK
+- [Free Midwife chat](https://lansinoh.co.uk/pages/live-midwife-chat) - A free chat with accredited Midwives in the UK.
 - [Parenting Science](https://parentingscience.com/) - A bunch of science backed articles on raising kids.
 - [Peaceful Parenting](https://www.ahaparenting.com/) - A collection of articles for every age, some paid content. I haven't investigated the paid content.
 - [Reddit - Parenting](https://www.reddit.com/r/Parenting/) - The Parenting Subreddit, the wiki and recommended reading are useful here.
@@ -105,7 +105,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Selfish Reasons to Have More Kids](https://www.goodreads.com/book/show/10266902-selfish-reasons-to-have-more-kids) - A reminder than parenthood CAN be fun.
 - [Cribsheet](https://www.goodreads.com/book/show/40121328-cribsheet) - A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool.
 - [The baby owners manual](https://www.goodreads.com/book/show/716925.The_Baby_Owner_s_Manual) - A well humoured guide for keeping your baby running at peak efficency.
-- [Commando Dad: Basic Training](https://www.amazon.co.uk/Commando-Dad-Elite-Carer-Birth/dp/1849532613) - A well structured guide for dads looking to survive the first 24 hours
+- [Commando Dad: Basic Training](https://www.amazon.co.uk/Commando-Dad-Elite-Carer-Birth/dp/1849532613) - A well structured guide for dads looking to survive the first 24 hours.
 
 ### E-Books
 - [Unicef - The Art of Parenting](https://www.issa.nl/sites/default/files/pdf/Publications/cross%20sectoral/Resource%20Modules%20for%20Home%20Visitors%20Module%206.web_.pdf) - A PDF guide filled with great tips (check out the quiz).
