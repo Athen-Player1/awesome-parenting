@@ -81,6 +81,10 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 
 ## General Resources
 
+### Baby Care Apps
+
+- [BabyZone](https://apps.apple.com/app/id6752122642) - iPhone feeding, sleep and diaper logs. Free for one baby with ads; optional Premium for family sharing.
+
 ### Useful Sites
 - [Free Midwife chat](https://lansinoh.co.uk/pages/live-midwife-chat) - A free chat with accredited Midwives in the UK
 - [Parenting Science](https://parentingscience.com/) - A bunch of science backed articles on raising kids.
