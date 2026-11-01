@@ -20,6 +20,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [KeexyBox](https://keexybox.org/) - Web-based DNS and parental controls with a focus on child safety.
 - [AdGuard](https://github.com/AdguardTeam/AdGuardHome) - General Ad Blocker with some nice blocking options.
 - [Safe Surfer](https://gitlab.com/safesurfer/SafeSurfer-Android) - Mobile optimised web safety app.
+- [Ripple](https://ripplefocus.github.io/en/parental-control/) - Free Android parental control that blocks only WeChat Channels, Moments, YouTube Shorts and Reels while keeping chat working, with uninstall protection, clock change detection and a parent held unlock code.
 - [Swiggle](https://swiggle.org.uk/) - Child Friendly Search Engine.
 - [SafeWise](https://www.safewise.com/resources/internet-safety-for-teens/) - Resources for keeping teens safe, topics include Sexting, Pornography, and Cyberbullying.
 
