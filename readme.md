@@ -44,6 +44,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 
 ### Arts and Creativity
 - [ColorKind](https://colorkind.app/) - Turns children's ideas or family photos into age-adjusted coloring pages that families can print.
+- [WowColoring](https://wowcoloring.com/) - Free printable coloring pages for kids and adults, with 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays.
 
 ### Educational Games
 - [Awsome Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Awesome list of educational games.
