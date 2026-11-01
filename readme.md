@@ -20,6 +20,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [KeexyBox](https://keexybox.org/) - Web-based DNS and parental controls with a focus on child safety.
 - [AdGuard](https://github.com/AdguardTeam/AdGuardHome) - General Ad Blocker with some nice blocking options.
 - [Safe Surfer](https://gitlab.com/safesurfer/SafeSurfer-Android) - Mobile optimised web safety app.
+- [Ripple](https://ripplefocus.github.io/en/parental-control/) - Free Android parental control that blocks only WeChat Channels, Moments, YouTube Shorts and Reels while keeping chat working, with uninstall protection, clock change detection and a parent held unlock code.
 - [Swiggle](https://swiggle.org.uk/) - Child Friendly Search Engine.
 - [SafeWise](https://www.safewise.com/resources/internet-safety-for-teens/) - Resources for keeping teens safe, topics include Sexting, Pornography, and Cyberbullying.
 
@@ -34,6 +35,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 ### Engineering
 - [Engineer4Free](https://www.engineer4free.com/) - 500 Free Engineering Lessons.
 - [NatGeo Kids](https://kids.nationalgeographic.com/) - National Geographic for kids.
+- [Mini Golf STEM Activity](https://minigolfspots.com/blog/mini-golf-stem-activity) - Free guide for designing, building and testing a cardboard mini-golf course, with measurements and redesign.
 
 ### Coding / Computer Science
 - [Typing Club](https://www.typingclub.com/) -  Free typing lessons for kids.
@@ -43,15 +45,18 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 
 ### Arts and Creativity
 - [ColorKind](https://colorkind.app/) - Turns children's ideas or family photos into age-adjusted coloring pages that families can print.
+- [WowColoring](https://wowcoloring.com/) - Free printable coloring pages for kids and adults, with 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays.
 
 ### Educational Games
 - [Awsome Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Awesome list of educational games.
+- [kdpbook.io Maze Maker](https://kdpbook.io/kdp/maze-maker) - Free, no-signup printable mazes for kids, rectangular or circular, from easy to expert, with the solution on its own page.
 
 ### Resilience & Social-Emotional Learning
 - [AQ Kids — Resilience Quiz](https://ordinarymantrying.com/tools/aq-kids/) - Free quiz that helps parents assess their child's resilience (AQ). Generates a personalized PDF report with a parent's letter. No sign-up needed.
 
 ### Family Planning & Organization
 - [Family Trip Planner](https://ordinarymantrying.com/tools/family-schedule.html) - Free browser-based itinerary planner for family trips. Add members, build day-by-day schedules with time slots and photos, then save as image or print. No login, no data stored — everything stays in your browser.
+- [School Closed / Childcare Canceled — One-Day Decision Sheet](https://parentresetco.com/pages/school-closed-childcare-canceled-decision-sheet) - Free, no-signup sheet for recording confirmed care, the next care call, a work update, and a fallback plan for one disrupted day.
 
 ## Courses for Parents
 
@@ -73,8 +78,13 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Paediatric First Aid](https://alison.com/course/paediatric-first-aid?gclid=Cj0KCQjwoeemBhCfARIsADR2QCtbwhhwgSVfHfp8LaJ91m1Rln3Jkn0yqGRVGVjJPAC-Ad8rI0T4T8QaAruUEALw_wcB) - Free Course on giving first aid to infants and kids.
 - [YoungMinds Anxiety Guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/anxiety/) - Free guide for parents on childhood anxiety.
 - [Growo](https://usegrowo.com/calculators) - Free WHO and CDC growth percentile calculators for babies and children, with corrected age for preterm babies and mid-parental height. No sign-up needed.
+- [Recall Kitchen](https://recallkitchen.com/) - Free tool to search government recall notices (CPSC, FDA, USDA FSIS, NHTSA, Health Canada) by keyword, UPC, product name, make and model, or photo (beta), and save what you own to see new matches.
 
 ## General Resources
+
+### Baby Care Apps
+
+- [BabyZone](https://apps.apple.com/app/id6752122642) - iPhone feeding, sleep and diaper logs. Free for one baby with ads; optional Premium for family sharing.
 
 ### Useful Sites
 - [Free Midwife chat](https://lansinoh.co.uk/pages/live-midwife-chat) - A free chat with accredited Midwives in the UK
@@ -82,6 +92,8 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Peaceful Parenting](https://www.ahaparenting.com/) - A collection of articles for every age, some paid content. I haven't investigated the paid content.
 - [Reddit - Parenting](https://www.reddit.com/r/Parenting/) - The Parenting Subreddit, the wiki and recommended reading are useful here.
 - [Free Parenting Tools](https://twiggly.app/tools/) - Free, no-signup web tools for chores, rewards, and age-readiness. Printable.
+- [Printable Baby Celebration Games](https://chinesegenderpredictor.net/gender-reveal-games/) - Five free activities for baby showers and gender reveals, with original A4 and US Letter PDFs and host instructions. PDFs are for personal, noncommercial use; no sign-up required.
+- [Subskills](https://subskills.xyz/) - Free sports technique videos sorted by sport, sub-skill and level.
 
 ### Platforms
 - [parenting.stackexchange.com](https://parenting.stackexchange.com/)
