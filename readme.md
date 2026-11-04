@@ -86,6 +86,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 ### Baby Care Apps
 
 - [BabyZone](https://apps.apple.com/app/id6752122642) - iPhone feeding, sleep and diaper logs. Free for one baby with ads; optional Premium for family sharing.
+- [Sleepy Sea](https://halfpickle.com/sleepy-sea/) - Calm narrated bedtime game for ages 5 and under on iOS and Android. Three houses in the download, one $4.99 purchase for all eight. No ads, no data collected. Art and voices are AI-made.
 
 ### Useful Sites
 - [Free Midwife chat](https://lansinoh.co.uk/pages/live-midwife-chat) - A free chat with accredited Midwives in the UK.
