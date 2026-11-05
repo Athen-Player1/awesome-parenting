@@ -80,6 +80,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [YoungMinds Anxiety Guide](https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/anxiety/) - Free guide for parents on childhood anxiety.
 - [Growo](https://usegrowo.com/calculators) - Free WHO and CDC growth percentile calculators for babies and children, with corrected age for preterm babies and mid-parental height. No sign-up needed.
 - [Recall Kitchen](https://recallkitchen.com/) - Free tool to search government recall notices (CPSC, FDA, USDA FSIS, NHTSA, Health Canada) by keyword, UPC, product name, make and model, or photo (beta), and save what you own to see new matches.
+- [Shishur Jotno](https://shishurjotno.com/) - Free Bangla-language site on baby care for ages 0–2 and pregnancy, based on WHO, UNICEF and Bangladesh DGHS guidance.
 
 ## General Resources
 
