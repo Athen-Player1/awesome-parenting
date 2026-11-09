@@ -50,6 +50,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 
 ### Educational Games
 - [Awsome Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Awesome list of educational games.
+- [Couscous printable question cards](https://couscous.ai/printables) - Printable yes-or-no question cards and Who am I? cards for guessing games at the table, one PDF per deck in A4 or Letter, in English, Spanish, German, French and Russian.
 - [kdpbook.io Maze Maker](https://kdpbook.io/kdp/maze-maker) - Free, no-signup printable mazes for kids, rectangular or circular, from easy to expert, with the solution on its own page.
 
 ### Resilience & Social-Emotional Learning
