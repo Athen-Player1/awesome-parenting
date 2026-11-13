@@ -58,6 +58,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 ### Family Planning & Organization
 - [Family Trip Planner](https://ordinarymantrying.com/tools/family-schedule.html) - Free browser-based itinerary planner for family trips. Add members, build day-by-day schedules with time slots and photos, then save as image or print. No login, no data stored — everything stays in your browser.
 - [School Closed / Childcare Canceled — One-Day Decision Sheet](https://parentresetco.com/pages/school-closed-childcare-canceled-decision-sheet) - Free, no-signup sheet for recording confirmed care, the next care call, a work update, and a fallback plan for one disrupted day.
+- [Secret Santa Generator](https://secretsantagenerator.xyz/family-secret-santa/) - Free Secret Santa name draw for families across several households that keeps couples and housemates apart, includes kids and avoids last year's pairs. No sign-up, no emails.
 
 ## Courses for Parents
 
