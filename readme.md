@@ -85,6 +85,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 
 ### Baby Care Apps
 
+- [Babylog: Baby Tracker](https://thebabylog.com/) - Baby tracker and baby monitor in one app. Use a spare tablet or phone as a baby monitor (Premium); the free plan logs feeds, sleep and diapers with nap and feed predictions from day one. iPhone, iPad, Android and web.
 - [BabyZone](https://apps.apple.com/app/id6752122642) - iPhone feeding, sleep and diaper logs. Free for one baby with ads; optional Premium for family sharing.
 
 ### Useful Sites
